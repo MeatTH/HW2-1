@@ -37,14 +37,10 @@ class Program
         }
         return n;
     }
-    
-        
-
-        
-    }
-
-    
-
-
-
 }
+
+    
+
+
+
+
